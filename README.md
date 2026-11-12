@@ -21,7 +21,6 @@ Tot ce faci rămâne **local**: fișierele tale nu sunt încărcate nicăieri, i
 - [Rulare din sursă](#Rulare-din-sursă)
 - [Limitări](#limitări)
 - [Structura proiectului](#structura-proiectului)
-- [Construirea executabilului](#construirea-executabilului)
 - [Licență](#Licență)
 
 
