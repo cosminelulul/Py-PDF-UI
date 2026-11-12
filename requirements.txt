@@ -1,0 +1,5 @@
+customtkinter>=5.2.2
+pillow>=10.4
+pypdfium2>=4.30
+pypdf>=5.0
+tkinterdnd2
