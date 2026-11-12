@@ -6,7 +6,7 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Aplicație desktop pentru lucru l cu PDF-uri și imagini: exportă pagini ca PNG, creează PDF din imagini, îmbină, împarte, elimină pagini și comprimă fișiere PDF.
+Aplicație desktop destinată prelucrării cu PDF-uri și imagini: exportă pagini ca PNG, creează PDF din imagini, îmbină, împarte, elimină pagini și comprimă fișiere PDF.
 
 Tot ce faci rămâne **local**: fișierele tale nu sunt încărcate nicăieri, iar aplicația nu folosește internetul.
 
